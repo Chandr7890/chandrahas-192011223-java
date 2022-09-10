@@ -1,5 +1,5 @@
 import java.util.*;
-class reve{
+class String_Reverse{
 public String rev(){
 Scanner a=new Scanner(System.in);
 String str1=new String();
