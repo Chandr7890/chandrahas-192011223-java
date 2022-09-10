@@ -1,6 +1,6 @@
 import java.util.*;
 
-class inter{
+class user_Name{
     public static void main(String [] args){
         Scanner a=new Scanner(System.in);
         System.out.println("enter the user name");
