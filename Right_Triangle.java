@@ -1,5 +1,5 @@
 import java.util.*;
-class Right_Traingle{
+class Right_Triangle{
 
 
 public static void main(String[] args){
